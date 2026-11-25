@@ -178,6 +178,7 @@ A continuación, se detalla lo que se realiza en cada fase representada en el es
 * **TABLA PRODUCTOS:** Contiene el detalle técnico y descriptivo del inventario.
 * **TABLA PRODUCTO_PROVEEDOR y TABLA PROVEEDOR:** Desglosan la red de proveedores, sus datos de contacto y los precios de provisión.
 * **TABLA ORDEN y TABLA DETALLES_ORDEN:** Estructuran de forma limpia las cabeceras de las órdenes y el desglose atómico de los productos, cantidades y precios incluidos en cada una.
-<img width="4602" height="2372" alt="EJERCICIO 8-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/0e90a761-1783-435e-96bd-6b58d8192493" />
+<img width="4802" height="2372" alt="EJERCICIO 8-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/7aceb29d-a0f8-4301-bce2-3f3464d13fb6" />
+
 
 
